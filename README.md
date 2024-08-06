@@ -1,6 +1,4 @@
-Here's a more detailed, scientifically oriented README file tailored for a business strategist and analyst:
 
----
 
 # Efficient Frontier Analysis
 
